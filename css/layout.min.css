@@ -861,6 +861,14 @@ fieldset[disabled] .btn-theme {
     background: #fafafa !important
 }
 
+.bg-color-sky-blue {
+    background: #17bed2 !important
+}
+
+.bg-color-sky-blue:hover {
+    background: #08606a !important
+}
+
 .row-space-2 {
     margin-right: -2px;
     margin-left: -2px
